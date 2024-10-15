@@ -1,0 +1,105 @@
+{
+    "home": "Page Accueil",
+    "homedraw":"Accueil",
+    "experprof": "Expérience Professionnelle",
+    "experprofdraw":"EXPÉRIENCE PROFESSIONNELLE",
+    "experacad": "Expérience Académique",
+    "experacaddraw":"EXPÉRIENCE ACADÉMIQUE",
+    "dipl": "Page Diplômes",
+    "dipldraw":"DIPLÔMES",
+    "lang": "Page Langues",
+    "langdraw":"LANGUES",
+    "comp": "Page Compétences",
+    "compdraw":"COMPÉTENCES",
+    "qual": "Page Qualités",
+    "qualdraw":"QUALITÉS",
+    "inter": "Page Centres d'Intérêts",
+    "interdraw":"CENTRES D'INTÉRÊTS",
+    "setti": "Page Paramètres",
+    "settidraw":"P A R A M È T R E",
+    "themetit" : "Change le thème",
+    "themesous": "Mode sombre",
+    "langtit": "Changer de langue",
+    "lengsous": "Choisissez la langue",
+    "map": "Page Carte",
+    "nom": "Yassine AYADI",
+    "Profile": "Etudiant en 2éme année ingénierie informatique à Institut International de Technologie (IIT) , motivé  , sérieux , rigoureux ,dynamique  et doté d'un solide esprit d'équipe. Je suis passionnné par L'intelligence Artificielle , Deep Learning , Machine Learning , Cloud Computing , DevOps et  les nouvelles technologies .",
+    "email" : "yassine.ayadi200058@gmail.com",
+    "telephone" : "+216 20 05 54 01",
+    "linkedin" : "https://linkedin.com/in/Ayadi-yassine/",
+    "adresse" :"Route Lafrane km 5.5 Sfax",
+    
+    "qualites" : ["Rigoureux","Méthodique","Responsable","Sérieux","Dynamique"],
+    "competences": [
+        {
+            "Langages Et Framwork": ["HTML, CSS, JavaScript, php, java, node.js, flutter, python, vb.net, laravel, machine lerning."]
+        },
+        {
+            "Bases De Données": ["Oracle, phpMyAdmin, SQL Serve, Mysql, MongoBD, Laragon, PL/SQL."]
+        },
+        {
+            "IDE": ["Entreprise Architect, Eclipse, Git / VS Code, Power BI, MongoBD, Laragon, SQL Server, Android studio."]
+        },
+        {
+            "Modélisation": ["UML, SCRUM."]
+        },
+        {
+            "Carte Électronique": "Arduino"
+        }
+    ],
+    "centres interets" : [" Sport / Football" , " Jeux vidéos"," Musique"," Nouvelles technologies"],
+    "langues" : [
+        {"Français": 0.7},
+        {"Anglais":0.5},
+        {"Arabe" : 0.9}
+    ],
+    "diplome" : [
+        {"title":"Cycle Ingénieur En Génie Informatique",
+        "lieu":"INSTITUT INTERNATIONAL DE TECHNOLOGIE « IIT » , SFAX",
+        "date":"Septembre 2022 - Présent"
+        },
+        {"title":"Licence En Informatique De Gestion",
+        "lieu":"INSTITUT SUPÉRIEUR D'ADMINISTRATION DES AFFAIRES DE SFAX",
+        "date":"septembre 2021 - 2022"
+        },
+        {"title":"Baccalauréat En Sciences Techniques",
+        "lieu":"LYCÉE 15 novembre 1955 (LHAY) , SFAX",
+        "date":"JUIN 2019"
+        }
+    ],
+    "experience professionnelle" : [
+        {"title":"Projet de fin d’étude",
+        "lieu":"CHAABEN TECHNOLOGY GROUP",
+        "date":"FEVRIER 2022 – MAI 2022",
+        "description":"Conception et développement de la plateforme Web-Mobile « Recrute.tn » lié à l’intelligence artificielle.",
+        "outils": 
+                "Apache Cordova, PYTHON, FLASK, SCIKIT-LEARN, ChartJS, NodeJS with RestAPI architecture,MongoDB"
+        },
+        {"title":"Stage d’été",
+        "lieu":"EXADEV SFAX",
+        "date":" AOUT 2021- SEPTEMBRE 2021",
+        "description":"Analyse, conception et réalisation d’un site web de location de voiture",
+        "outils": "PHP, LARAVEL, BOOTSTRAP, LARAGON"
+        
+        }
+    ],
+    "experience academique" : [
+        {"title":"GESTION DES CONTRATS DE SALARIES",
+        "description":"Conception et réalisation une application de gestion des contrats de salariés.",
+        "outils": 
+                "UML, SQL Server, VB.Net"
+        },
+        {"title":"APPLICATION MACHINE LEARNING",
+        "description":"Système d'aide à la décision pour prédire les médicaments pour un patient.",
+        "outils": 
+                "PYTHON, FLASK, SCIKIT-LEARN"
+        },
+        {"title":"MAQUETTE DIDACTIQUE D’UNE SMART PARKING",
+        "description":"Réaliser une maquette didactique de smart parking avec une conception adéquate pour toutes les fonctionnalités possibles (maquette flexible)",
+        "outils": 
+                "2 servomotors, 6 LEDS, 2 LCD displays, 14 ULTRASON sensors, 1 RFID sensor, Arduino UNO board, Arduino Mega board"
+        }        
+    ]
+
+    
+}

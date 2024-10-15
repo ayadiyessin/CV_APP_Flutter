@@ -1,0 +1,128 @@
+{
+    "home": "Home Page",
+    "homedraw":"Home",
+    "experprof": "Professional Experience",
+    "experprofdraw":"PROFESSIONAL EXPERIENCE",
+    "experacad": "Academic Experience",
+    "experacaddraw":"ACADEMIC EXPERIENCE",
+    "dipl": "Diplomas Page",
+    "dipldraw":"DIPLOMAS",
+    "lang": "Languages Page",
+    "langdraw":"LANGUAGES",
+    "comp": "Skills Page",
+    "compdraw":"SKILLS",
+    "qual": "Qualities Page",
+    "qualdraw":"QUALITIES",
+    "inter": "Centers of Interests Page",
+    "interdraw":"CENTERS OF INTERESTS",
+    "setti": "Setting Page",
+    "settidraw":"S E T T I N G",
+    "themetit" : "Change theme",
+    "themesous": "Dark mode",
+    "langtit": "Change language",
+    "lengsous": "Choose language",
+    "map": "Map Page",
+    "nom": "Yassine AYADI",
+    "Profile": "I'm a 2nd year computer engineering student at Institut International de Technologie (IIT), motivated, serious, rigorous, dynamic and with a strong team spirit. I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Cloud Computing, DevOps and new technologies.",
+    "email": "yassine.ayadi200058@gmail.com",
+    "telephone": "+216 20 05 54 01",
+    "linkedin": "https://linkedin.com/in/Ayadi-yassine/",
+    "adresse": "Route Lafrane km 5.5 Sfax",
+    "qualites": [
+        "Rigorous",
+        "Methodical",
+        "Manager",
+        "Serious",
+        "Dynamics"
+    ],
+    "competences": [
+        {
+            "Langages Et Framwork": ["HTML, CSS, JavaScript, php, java, node.js, flutter, python, vb.net, laravel, machine lerning."]
+        },
+        {
+            "Bases De Données": ["Oracle, phpMyAdmin, SQL Serve, Mysql, MongoBD, Laragon, PL/SQL."]
+        },
+        {
+            "IDE": ["Entreprise Architect, Eclipse, Git / VS Code, Power BI, MongoBD, Laragon, SQL Server, Android studio."]
+        },
+        {
+            "Modélisation": ["UML, SCRUM."]
+        },
+        {
+            "Carte Électronique": "Arduino"
+        }
+    ],
+    "centres interets": [
+        "Sport / Football",
+        "Video games",
+        "Music",
+        "New technologies"
+    ],
+    "langues": [
+        {
+            "Français": 0.7
+        },
+        {
+            "Anglais": 0.5
+        },
+        {
+            "Arabe": 0.9
+        }
+    ],
+    "diplome": [
+        {
+            "title": "Computer Engineering Cycle",
+            "lieu": "INTERNATIONAL INSTITUTE OF TECHNOLOGY \"IIT\", SFAX",
+            "date": "September 2022 - Present"
+        },
+        {
+            "title": "Licence En Informatique De Gestion",
+            "lieu": "SFAX HIGHER INSTITUTE OF BUSINESS ADMINISTRATION",
+            "date": "September 2021 - 2022"
+        },
+        {
+            "title": "Baccalauréat En Sciences Techniques",
+            "lieu": "LYCÉE November 15, 1955 (LHAY) , SFAX",
+            "date": "JUNE 2019"
+        }
+    ],
+    "experience professionnelle": [
+        {
+            "title": "End-of-study project",
+            "lieu": "CHAABEN TECHNOLOGY GROUP",
+            "date": "FEBRUARY 2022 - MAY 2022",
+            "description": "Design and development of the Web-Mobile platform \"Recrute.tn\" linked to artificial intelligence.",
+            "outils": 
+                "Apache Cordova, PYTHON, FLASK, SCIKIT-LEARN, ChartJS, NodeJS with RestAPI architecture,MongoDB"
+            
+        },
+        {
+            "title": "Summer course",
+            "lieu": "EXADEV SFAX",
+            "date": " AUGUST 2021- SEPTEMBER 2021",
+            "description": "Analysis, design and implementation of a car rental website",
+            "outils": "PHP, LARAVEL, BOOTSTRAP, LARAGON"
+        }
+    ],
+    "experience academique": [
+        {
+            "title": "EMPLOYEE CONTRACT MANAGEMENT",
+            "description": "Design and implementation of an employee contract management application.",
+            "outils": 
+                "UML, SQL Server, VB.Net"
+        },
+        {
+            "title": "MACHINE LEARNING APPLICATION",
+            "description": "Decision support system to predict medication for a patient.",
+            "outils": 
+                "PYTHON, FLASK, SCIKIT-LEARN"
+        },
+        {
+            "title": "DIDACTIC MODEL OF A SMART PARKING LOT",
+            "description": "Produce a didactic smart parking mock-up with an appropriate design for all possible functionalities (flexible mock-up).",
+            "outils": 
+                "2 servomotors, 6 LEDS, 2 LCD displays, 14 ULTRASON sensors, 1 RFID sensor, Arduino UNO board, Arduino Mega board"
+           
+        }
+    ]
+}
