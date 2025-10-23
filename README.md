@@ -54,11 +54,6 @@ Nous avons utilisé plusieurs widgets essentiels pour la construction de l'inter
 - Dart SDK installé avec Flutter.
 - Un émulateur Android/iOS ou un appareil physique pour tester l'application.
 
-### Instructions
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/votre-username/votre-repo.git
-
 ## Démo
 
 Pour voir une démo vidéo de l'application en action ci-dessou:
